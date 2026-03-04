@@ -1,0 +1,22 @@
+{
+  "name": "video-calling-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketanram-am/interview-forge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ketanram-am/interview-forge/issues"
+  },
+  "homepage": "https://github.com/ketanram-am/interview-forge#readme"
+}
